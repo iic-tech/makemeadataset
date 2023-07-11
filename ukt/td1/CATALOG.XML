@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<S100XC:S100_ExchangeCatalogue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.iho.int/s100/xc/5.0 ../../xgml/58/5/schemas.s100dev.net/schemas/S100/5.0.0/S100Catalog/20220610/S100_ExchangeCatalogue.xsd"
+ xmlns:S100XC="http://www.iho.int/s100/xc/5.0"
+ xmlns:ns4="http://standards.iso.org/iso/19115/-3/mcc/1.0"
+ xmlns:ns3="http://standards.iso.org/iso/19115/-3/gco/1.0"
+ xmlns:ns6="http://standards.iso.org/iso/19115/-3/cit/2.0"
+ xmlns:ns31="http://standards.iso.org/iso/19115/-3/mdt/2.0"
+ xmlns:ns5="http://standards.iso.org/iso/19115/-3/mrl/2.0"
+ xmlns:ns30="http://standards.iso.org/iso/19115/-3/mda/2.0"
+ xmlns:ns8="http://standards.iso.org/iso/19115/-3/lan/1.0"
+ xmlns:ns7="http://standards.iso.org/iso/19115/-3/cit/1.0"
+ xmlns:ns13="http://standards.iso.org/iso/19115/-3/msr/2.0"
+ xmlns:ns35="http://standards.iso.org/iso/19115/-3/mpc/1.0"
+ xmlns:ns9="http://standards.iso.org/iso/19115/-3/mrc/2.0"
+ xmlns:ns12="http://standards.iso.org/iso/19115/-3/mac/2.0"
+ xmlns:ns34="http://standards.iso.org/iso/19115/-3/srv/2.0"
+ xmlns:ns11="http://standards.iso.org/iso/19157/-2/mdq/1.0"
+ xmlns:ns33="http://standards.iso.org/iso/19115/-3/mrs/1.0"
+ xmlns:ns10="https://schemas.isotc211.org/19110/-/gfc/2.1"
+ xmlns:ns32="http://standards.iso.org/iso/19115/-3/mex/1.0"
+ xmlns:ns17="http://www.isotc211.org/2005/gco" xmlns:ns16="http://www.opengis.net/gml/3.2"
+ xmlns:ns15="http://standards.iso.org/iso/19115/-3/gex/1.0"
+ xmlns:ns14="http://www.w3.org/1999/xlink"
+ xmlns:ns36="http://standards.iso.org/iso/19115/-3/mas/1.0"
+ xmlns:ns18="http://www.isotc211.org/2005/gmd"
+ xmlns:ns20="http://standards.iso.org/iso/19115/-3/mco/1.0"
+ xmlns:ns24="http://www.isotc211.org/2005/gts"
+ xmlns:ns23="http://standards.iso.org/iso/19115/-3/mrd/1.0"
+ xmlns:ns22="http://standards.iso.org/iso/19115/-3/mmi/1.0"
+ xmlns:ns21="http://standards.iso.org/iso/19115/-3/mri/1.0"
+ xmlns:ns28="http://standards.iso.org/iso/19157/-2/dqc/1.0"
+ xmlns:ns27="http://standards.iso.org/iso/19115/-3/mdb/2.0"
+ xmlns:ns26="https://schemas.isotc211.org/19110/-/fcc/2.1"
+ xmlns:S100SE="http://www.iho.int/s100/se/5.0"
+ xmlns:ns25="http://standards.iso.org/iso/19115/-3/cat/1.0"
+ xmlns:ns29="http://standards.iso.org/iso/19115/-3/gcx/1.0">
+    <S100XC:identifier>
+        <S100XC:identifier>101GB0050242M</S100XC:identifier>
+        <S100XC:dateTime>2022-12-16T13:29:51.481Z</S100XC:dateTime>
+    </S100XC:identifier>
+    <S100XC:contact>
+        <S100XC:organization>
+            <ns3:CharacterString>UK Hydrographic Office</ns3:CharacterString>
+        </S100XC:organization>
+    </S100XC:contact>
+    <S100XC:exchangeCatalogueDescription>
+        <ns3:CharacterString>Wootton Creek</ns3:CharacterString>
+    </S100XC:exchangeCatalogueDescription>
+    <S100XC:exchangeCatalogueComment>
+        <ns3:CharacterString>Not to be used for navigation - trials data only</ns3:CharacterString>
+    </S100XC:exchangeCatalogueComment>
+    <S100XC:datasetDiscoveryMetadata>
+        <S100XC:S100_DatasetDiscoveryMetadata>
+            <S100XC:fileName>101GB0050242M.000</S100XC:fileName>
+            <S100XC:description>
+                <ns3:CharacterString>Wootten Creek</ns3:CharacterString>
+            </S100XC:description>
+            <S100XC:datasetID>urn:mrn:iho:101GB0050242M.000:1</S100XC:datasetID>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:dataProtection>false</S100XC:dataProtection>
+            <S100XC:protectionScheme>S100p15</S100XC:protectionScheme>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+<!--            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="101AA005X01NW" certificateRef="urn:mrn:iho:AA00:1810">MDwCHBUzZDKLyVwUw+hLp0CXwibHdumUWdp/0u9+MQcCHBoyzOeuRUD3NqqUrSxpvobVZYxhGTd5yC3jA3A=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>-->
+            <S100XC:copyright>false</S100XC:copyright>
+            <S100XC:purpose>newDataset</S100XC:purpose>
+            <S100XC:notForNavigation>false</S100XC:notForNavigation>
+            <S100XC:specificUsage>
+                <ns21:MD_Usage>
+                    <ns21:specificUsage>
+                        <ns3:CharacterString>Port Entry</ns3:CharacterString>
+                    </ns21:specificUsage>
+                </ns21:MD_Usage>
+            </S100XC:specificUsage>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:updateNumber>0</S100XC:updateNumber>
+            <S100XC:updateApplicationDate>2021-01-12</S100XC:updateApplicationDate>
+            <S100XC:issueDate>2021-01-12</S100XC:issueDate>
+            <S100XC:boundingBox>
+                <ns15:westBoundLongitude>
+                    <ns3:Decimal>-1.2297767</ns3:Decimal>
+                </ns15:westBoundLongitude>
+                <ns15:eastBoundLongitude>
+                    <ns3:Decimal>-1.199045</ns3:Decimal>
+                </ns15:eastBoundLongitude>
+                <ns15:southBoundLatitude>
+                    <ns3:Decimal>50.724155</ns3:Decimal>
+                </ns15:southBoundLatitude>
+                <ns15:northBoundLatitude>
+                    <ns3:Decimal>50.7433333</ns3:Decimal>
+                </ns15:northBoundLatitude>
+            </S100XC:boundingBox>
+            <S100XC:productSpecification>
+                <S100XC:name>S-101</S100XC:name>
+                <S100XC:version>010000</S100XC:version>
+                <S100XC:date>2018-12-01</S100XC:date>
+                <S100XC:productIdentifier>S-101</S100XC:productIdentifier>
+                <S100XC:number>101</S100XC:number>
+            </S100XC:productSpecification>
+            <S100XC:producingAgency>
+                <ns6:CI_Responsibility>
+                    <ns6:role>
+                        <ns6:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </ns6:role>
+                    <ns6:party>
+                        <ns6:CI_Organisation>
+                            <ns6:name>
+<ns3:CharacterString>UK Hydrographic Office</ns3:CharacterString>
+                            </ns6:name>
+                        </ns6:CI_Organisation>
+                    </ns6:party>
+                </ns6:CI_Responsibility>
+            </S100XC:producingAgency>
+            <S100XC:encodingFormat>ISO/IEC 8211</S100XC:encodingFormat>
+            <S100XC:dataCoverage>
+                <S100XC:boundingPolygon>
+                    <ns15:polygon>
+                        <ns16:Curve>
+                            <ns16:segments>
+<ns16:LineStringSegment>
+    <ns16:posList srsName="urn:ogc:def:crs:EPSG::4326">-1.2297767 50.7294966 -1.2297767 50.7304792 -1.2297767 50.7304792 -1.2297767 50.7321789 -1.2297767 50.7321789 -1.2297767 50.7347233 -1.2297767 50.7347233 -1.2297767 50.7377762 -1.2297767 50.7377762 -1.2297767 50.7397742 -1.2297767 50.7397742 -1.2297767 50.740224 -1.2297767 50.740224 -1.2297767 50.7426746 -1.2297767 50.7426746 -1.2297767 50.7431193 -1.2297767 50.7431193 -1.2297767 50.7433333 -1.219305 50.7433333 -1.219305 50.7433333 -1.2175711 50.7433333 -1.2175711 50.7433333 -1.204001 50.7433333 -1.204001 50.7433333 -1.199045 50.7433333 -1.199045 50.7408035 -1.199045 50.7408035 -1.199045 50.7396681 -1.199045 50.7396681 -1.199045 50.737358 -1.199045 50.737358 -1.199045 50.7358075 -1.199045 50.7358075 -1.199045 50.7350464 -1.199045 50.7350464 -1.199045 50.7337854 -1.199045 50.7337854 -1.199045 50.7335587 -1.199045 50.7335587 -1.199045 50.7331903 -1.199045 50.7331903 -1.199045 50.7305614 -1.199045 50.7305614 -1.199045 50.7274737 -1.199045 50.7274737 -1.199045 50.724155 -1.218139 50.724155 -1.218139 50.724155 -1.2203677 50.724155 -1.2203677 50.724155 -1.2227581 50.724155 -1.2227581 50.724155 -1.2242693 50.724155 -1.2242693 50.724155 -1.2252986 50.724155 -1.2252986 50.724155 -1.2275425 50.724155 -1.2275425 50.724155 -1.2297767 50.724155 -1.2297767 50.7249617 -1.2297767 50.7249617 -1.2297767 50.7270897 -1.2297767 50.7270897 -1.2297767 50.7274583 -1.2297767 50.7274583 -1.2297767 50.7283956 -1.2297767 50.7283956 -1.2297767 50.7290163 -1.2297767 50.7290163 -1.2297767 50.7290703 -1.2297767 50.7290703 -1.2297767 50.7294966</ns16:posList>
+</ns16:LineStringSegment>
+                            </ns16:segments>
+                        </ns16:Curve>
+                    </ns15:polygon>
+                </S100XC:boundingPolygon>
+                <S100XC:maximumDisplayScale>8000</S100XC:maximumDisplayScale>
+                <S100XC:minimumDisplayScale>22000</S100XC:minimumDisplayScale>
+            </S100XC:dataCoverage>
+            <S100XC:defaultLocale>
+                <ns8:PT_Locale>
+                    <ns8:language>
+                        <ns8:LanguageCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_LanguageCode" codeListValue="Eng">Eng</ns8:LanguageCode>
+                    </ns8:language>
+                    <ns8:characterEncoding>
+                        <ns8:MD_CharacterSetCode codeList="http://www.iho.int/S100/5.0.0/resources/Codelists/cat/codelists.xml#S100_MD_CharacterSetCode" codeListValue="UTF-8">UTF-8</ns8:MD_CharacterSetCode>
+                    </ns8:characterEncoding>
+                </ns8:PT_Locale>
+            </S100XC:defaultLocale>
+            <S100XC:metadataPointOfContact>
+                <ns6:CI_Responsibility>
+                    <ns6:role>
+                        <ns6:CI_RoleCode codeList="http://standards.iso.org/iso/19115/resources/Codelists/cat/codelists.xml#CI_RoleCode" codeListValue="producer"/>
+                    </ns6:role>
+                    <ns6:party>
+                        <ns6:CI_Organisation>
+                            <ns6:name>
+<ns3:CharacterString>UK Hydrographic Office</ns3:CharacterString>
+                            </ns6:name>
+                        </ns6:CI_Organisation>
+                    </ns6:party>
+                </ns6:CI_Responsibility>
+            </S100XC:metadataPointOfContact>
+            <S100XC:metadataDateStamp>2020-10-28</S100XC:metadataDateStamp>
+        </S100XC:S100_DatasetDiscoveryMetadata>
+    </S100XC:datasetDiscoveryMetadata>
+    <S100XC:supportFileDiscoveryMetadata>
+        <S100XC:S100_SupportFileDiscoveryMetadata>
+            <S100XC:fileName>101GB001A0122.TXT</S100XC:fileName>
+            <S100XC:revisionStatus>new</S100XC:revisionStatus>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2021-01-12</S100XC:issueDate>
+            <S100XC:dataType>ASCII</S100XC:dataType>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+<!--            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="101AA005X01NW" certificateRef="urn:mrn:iho:AA00:1810">MDwCHBUzZDKLyVwUw+hLp0CXwibHdumUWdp/0u9+MQcCHBoyzOeuRUD3NqqUrSxpvobVZYxhGTd5yC3jA3A=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>-->
+            <S100XC:supportedResource>101GB0050242M.000</S100XC:supportedResource>
+            <S100XC:resourcePurpose>supportFile</S100XC:resourcePurpose>
+        </S100XC:S100_SupportFileDiscoveryMetadata>
+        <S100XC:S100_SupportFileDiscoveryMetadata>
+            <S100XC:fileName>101GB00N00499.TXT</S100XC:fileName>
+            <S100XC:revisionStatus>new</S100XC:revisionStatus>
+            <S100XC:editionNumber>1</S100XC:editionNumber>
+            <S100XC:issueDate>2021-01-12</S100XC:issueDate>
+            <S100XC:dataType>ASCII</S100XC:dataType>
+            <S100XC:compressionFlag>false</S100XC:compressionFlag>
+            <S100XC:digitalSignatureReference>DSA</S100XC:digitalSignatureReference>
+<!--            <S100XC:digitalSignatureValue>
+                <S100SE:S100_SE_DigitalSignature id="101AA005X01NW" certificateRef="urn:mrn:iho:AA00:1810">MDwCHBUzZDKLyVwUw+hLp0CXwibHdumUWdp/0u9+MQcCHBoyzOeuRUD3NqqUrSxpvobVZYxhGTd5yC3jA3A=</S100SE:S100_SE_DigitalSignature>
+            </S100XC:digitalSignatureValue>-->
+            <S100XC:supportedResource>101GB0050242M.000</S100XC:supportedResource>
+            <S100XC:resourcePurpose>supportFile</S100XC:resourcePurpose>
+        </S100XC:S100_SupportFileDiscoveryMetadata>
+    </S100XC:supportFileDiscoveryMetadata>
+    <S100XC:catalogueDiscoveryMetadata/>
+</S100XC:S100_ExchangeCatalogue>
