@@ -1,0 +1,6 @@
+Converting cell: 2J5X0002.000 ...
+Info: Attribute SYMINS for feature NEWOBJ dropped from S-101 feature VirtualAISAidToNavigation.
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J061972201000064).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J401953352100065).
+1/1 : 2J5X0002.000 -> 1012J005X0002.000 conversion completed with 2 warnings!
+

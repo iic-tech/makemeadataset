@@ -1,0 +1,7 @@
+Converting cell: IC3NEWPC.000 ...
+Info: Enumeration code 10 (other system) dropped from S-100 attribute marksNavigationalSystemOf for S-100 feature NavigationalSystemOfMarks (AA138686282300001)
+Warning: Adding null value to mandatory attribute surveyDateRange for feature QualityOfBathymetricData (AA138686280800001).
+Warning: Adding null value to mandatory attribute dateEnd for feature QualityOfBathymetricData (AA138686280800001).
+Warning: Adding null value to mandatory attribute marksNavigationalSystemOf for feature NavigationalSystemOfMarks (AA138686282300001).
+1/1 : IC3NEWPC.000 -> 101IC003NEWPC.000 conversion completed with 3 warnings!
+
