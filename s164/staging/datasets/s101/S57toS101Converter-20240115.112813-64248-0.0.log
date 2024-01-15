@@ -1,0 +1,5 @@
+Converting cell: IC3NEWCC.000 ...
+Warning: Adding null value to mandatory attribute surveyDateRange for feature QualityOfBathymetricData (AA138686332800001).
+Warning: Adding null value to mandatory attribute dateEnd for feature QualityOfBathymetricData (AA138686332800001).
+1/1 : IC3NEWCC.000 -> 101IC003NEWCC.000 conversion completed with 2 warnings!
+

@@ -1,0 +1,183 @@
+Converting cell: 2J5X0001.000 ...
+Warning: Unable to copy support file "RU5XAPIC.TIFF" referenced in PICREP for feature FE0000000281. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Warning: Unable to copy support file "RU5XATXT.TXT" referenced in TXTDSC for feature FE0000000282. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Info: Attribute SYMINS for feature NEWOBJ dropped from S-101 feature VirtualAISAidToNavigation.
+Warning: Unable to copy support file "RU5XLPIC.TIFF" referenced in PICREP for feature FE0000000321. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Warning: Unable to copy support file "RU5XLTXT.TXT" referenced in TXTDSC for feature FE0000000322. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Info: Attribute OBJNAM for feature BRIDGE dropped from S-101 feature SpanOpening.
+Info: Attribute CONVIS for feature AIRARE dropped from S-101 feature AirportAirfield.
+Warning: Unable to copy support file "RU5XPPIC.TIFF" referenced in PICREP for feature FE0000000368. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Warning: Unable to copy support file "RU5XPTXT.TXT" referenced in TXTDSC for feature FE0000000369. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Info: Enumeration code 1 (depth known) dropped from S-100 attribute qualityOfVerticalMeasurement for S-100 feature DredgedArea (2J324181414300177)
+Warning: Unable to copy support file "RU5XPTXT.TXT" referenced in TXTDSC for feature FE0000000563. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Warning: Unable to copy support file "RU5XPPIC.TIFF" referenced in PICREP for feature FE0000000564. File not found at path "C:/cygwin64/home/kusal/makemeadataset/s164/staging/datasets/s57".
+Warning: Unable to convert feature . Configuration not found.
+Warning: Unable to convert S-57 relationship between DAMCON (2J182345105000097) and RETRFL (2J144750656500096). Unable to find feature binding from S-101 feature type Dam (2J182345105000097) to Retroreflector.
+Warning: Adding null value to mandatory attribute categoryOfTemporalVariation for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute dataAssessment for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute featuresDetected for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute leastDepthOfDetectedFeaturesMeasured for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute significantFeaturesDetected for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute fullSeafloorCoverageAchieved for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute surveyDateRange for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute dateEnd for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute zoneOfConfidence for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute categoryOfZoneOfConfidenceInData for feature QualityOfBathymetricData (2J018210354600067).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J107295000200078).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J095677195100079).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J089552368500101).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J164302214700102).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J332454454900103).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J025585269700104).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J047402996700105).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J081544683500106).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J419610734400107).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J086012330800108).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J232951212100109).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J223021441300110).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J089517359200111).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J188918866500112).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J381010928600113).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J426023382900114).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J143767547900115).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J101997743600116).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J072734353900117).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J155667522000118).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J399248449500119).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J088466330100120).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J112075799900121).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J066810536900122).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J209720501800123).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J388270071600124).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J119668967400125).
+Warning: Adding null value to mandatory attribute categoryOfPylon for feature PylonBridgeSupport (2J237464479700126).
+Warning: Adding null value to mandatory attribute categoryOfSmallCraftFacility for feature SmallCraftFacility (2J273891790900127).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J384898486900131).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J384898486900131).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J226978538400132).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J226978538400132).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J358267840700133).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J358267840700133).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J414251773500134).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J414251773500134).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J357260419300135).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J357260419300135).
+Warning: Adding null value to mandatory attribute categoryOfSignalStationTraffic for feature SignalStationTraffic (2J070529895200083).
+Warning: Adding null value to mandatory attribute categoryOfFerry for feature FerryRoute (2J288022670000137).
+Warning: Adding null value to mandatory attribute categoryOfFerry for feature FerryRoute (2J087038248800138).
+Warning: Adding null value to mandatory attribute categoryOfFerry for feature FerryRoute (2J407091399400139).
+Warning: Adding null value to mandatory attribute categoryOfFerry for feature FerryRoute (2J084922688000140).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J100079407400151).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J100079407400151).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J100079407400151).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J332052168600152).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J332052168600152).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J332052168600152).
+Warning: Adding null value to mandatory attribute restriction for feature RestrictedAreaNavigational (2J176969979500153).
+Warning: Adding null value to mandatory attribute jurisdiction for feature AdministrationArea (2J304988143000162).
+Warning: Adding null value to mandatory attribute jurisdiction for feature AdministrationArea (2J206822241800163).
+Warning: Adding null value to mandatory attribute categoryOfSpecialPurposeMark for feature BuoySpecialPurposeGeneral (2J067207753400164).
+Warning: Adding null value to mandatory attribute colour for feature BuoySpecialPurposeGeneral (2J067207753400164).
+Warning: Adding null value to mandatory attribute verticalClearanceClosed for feature SpanOpening (2J369366100300165).
+Warning: Adding null value to mandatory attribute verticalClearanceValue for feature SpanOpening (2J369366100300165).
+Warning: Adding null value to mandatory attribute verticalClearanceOpen for feature SpanOpening (2J369366100300165).
+Warning: Adding null value to mandatory attribute verticalClearanceClosed for feature SpanOpening (2J200704603400166).
+Warning: Adding null value to mandatory attribute verticalClearanceValue for feature SpanOpening (2J200704603400166).
+Warning: Adding null value to mandatory attribute verticalClearanceOpen for feature SpanOpening (2J200704603400166).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J172076862900170).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J172076862900170).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J172076862900170).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J275162559900171).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J275162559900171).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J275162559900171).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J393882691500172).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J393882691500172).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J393882691500172).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J381307536800173).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J381307536800173).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J381307536800173).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J041672420200174).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J041672420200174).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J041672420200174).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J308041475800176).
+Warning: Adding null value to mandatory attribute depthRangeMinimumValue for feature DredgedArea (2J129926399500190).
+Warning: Adding null value to mandatory attribute restriction for feature RestrictedAreaNavigational (2J256899090600192).
+Warning: Adding null value to mandatory attribute categoryOfPylon for feature PylonBridgeSupport (2J273943829900201).
+Warning: Adding null value to mandatory attribute categoryOfSignalStationTraffic for feature SignalStationTraffic (2J235365678900086).
+Warning: Adding null value to mandatory attribute restriction for feature RestrictedAreaNavigational (2J192643371900202).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J241239192700150).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J078740618600207).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J363734270200208).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J298332594300209).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J028801011300210).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J420820547700211).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J225372542900212).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J308276466600213).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J213429361500214).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J406094071800215).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J243625889400216).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J081330736500217).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J043138717600219).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J236518163800220).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J376035559900221).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J353794258800188).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J353794258800188).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J353794258800188).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J257904265100191).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J257904265100191).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J257904265100191).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J208575225500193).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J208575225500193).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J208575225500193).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J267560655700195).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J267560655700195).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J267560655700195).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J353349446600196).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J353349446600196).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J353349446600196).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J110246202200197).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J110246202200197).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J110246202200197).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J349602473000222).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J174995158000179).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J349929381400182).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J171170637200178).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J093529712400180).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J057402907400181).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J057214457800227).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J298550892700228).
+Warning: Adding null value to mandatory attribute categoryOfFerry for feature FerryRoute (2J249846371500229).
+Warning: Adding null value to mandatory attribute restriction for feature RestrictedAreaNavigational (2J016477035300206).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RadioCallingInPoint (2J011467698400230).
+Warning: Adding null value to mandatory attribute basedOnFixedMarks for feature RecommendedTrack (2J415031622100233).
+Warning: Adding null value to mandatory attribute orientationValue for feature RecommendedTrack (2J415031622100233).
+Warning: Adding null value to mandatory attribute trafficFlow for feature RecommendedTrack (2J415031622100233).
+Warning: Adding null value to mandatory attribute categoryOfMooringWarpingFacility for feature MooringWarpingFacility (2J197564470100234).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J341651699600235).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J234237089500236).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J330862888000237).
+Warning: Adding null value to mandatory attribute categoryOfFogSignal for feature FogSignal (2J023118591000095).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J200402521200099).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J385273411400136).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J257244969200239).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J257244969200239).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J257244969200239).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J011322942200241).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J011322942200241).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J011322942200241).
+Warning: Adding null value to mandatory attribute beaconShape for feature BeaconCardinal (2J163058909600243).
+Warning: Adding null value to mandatory attribute categoryOfCardinalMark for feature BeaconCardinal (2J163058909600243).
+Warning: Adding null value to mandatory attribute colour for feature BeaconCardinal (2J163058909600243).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J196025125700244).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J326603406800245).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J326603406800245).
+Warning: Adding null value to mandatory attribute categoryOfLandmark for feature Landmark (2J119692603700246).
+Warning: Adding null value to mandatory attribute visualProminence for feature Landmark (2J119692603700246).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J274175313500247).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J380306524600248).
+Warning: Adding null value to mandatory attribute categoryOfSignalStationTraffic for feature SignalStationTraffic (2J095407181600129).
+Warning: Adding null value to mandatory attribute virtualAISAidToNavigationType for feature VirtualAISAidToNavigation (2J210444871200249).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneAxis (2J023293211800250).
+Warning: Adding null value to mandatory attribute nationality for feature ArchipelagicSeaLaneArea (2J298622879400205).
+1/1 : 2J5X0001.000 -> 1012J005X0001.000 conversion completed with 176 warnings!
+
