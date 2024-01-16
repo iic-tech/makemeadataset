@@ -168,6 +168,40 @@ Features:
     Prim: Curve
     Geometry: C12010
 
+##
+## these are the unknown features which don't exist in the feature catalogue.
+##
+
+    # Unknown Object - Point...
+    # $SCALE = 1.5
+    # ORIENT = 45
+    # INFORM = Wreck
+    # $SCODE = K28
+  - Name: Unknown
+    Foid: 1810:3684982651:590
+    Prim: Point
+    Geometry: P11019
+
+
+
+  # Unknown Object - Curve...
+  #     $SCODE = K1
+  # INFORM = danger line
+  
+  - Name: Unknown
+    Foid: 1810:3684982651:510
+    Prim: Curve
+    Geometry: C1207
+
+
+  # $SCODE = N45
+  # INFORM = See regulation "Jussland fishing act" paragraph 42
+  # Unknown Object - Area.    
+  - Name: Unknown
+    Foid: 1810:3684982651:520
+    Prim: Surface
+    Geometry: S1304
+
   - Name: DepthArea
     Foid: 1810:3684982651:500
     Prim: Surface
@@ -177,6 +211,8 @@ Features:
       - Name: depthRangeMaximumValue
         Value: 30
     Geometry: S1302
+
+##
 
   - Name: Obstruction
     Foid: 1810:3891941075:506
@@ -205,7 +241,7 @@ Features:
         Value: 1
     Geometry: S1305
 
-  - Name: LandArea # Was NEWOBJ
+  - Name: LandArea # Waypoint marker.
     Foid: 1810:834475393:501
     Prim: Point
     Attributes:
