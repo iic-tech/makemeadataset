@@ -149,6 +149,7 @@ Features:
         Value: 90000
     Geometry: S1301
 
+# 255 = 2,6
   - Name: BuoyCardinal
     Foid: 1810:967402877:211
     Prim: Point
@@ -163,6 +164,7 @@ Features:
         Value: 
     Geometry: P11020
 
+## 255 = 1
   - Name: CableSubmarine
     Foid: 1810:1823161373:213
     Prim: Curve
@@ -180,6 +182,29 @@ Features:
   - Name: Unknown
     Foid: 1810:3684982651:590
     Prim: Point
+    Attributes:
+      - Name: depthRangeMinimumValue
+        Value: 0
+      # - Name: featureName   ## this should be inform / information?
+      #   id: 1
+      # - Name: name
+      #   parent: 1
+      #   Value: Wreck
+      # - Name: displayName
+      #   parent: 1
+      #   Value: 1
+      # - Name: language
+      #   parent: 1
+      #   Value: eng
+      # - Name: orientation
+      #   id: 2
+      # - Name: orientationValue
+      #   parent: 2
+      #   Value: 45
+      # - Name: Scale
+      #   Value: 1.5
+      # - Name: Scode
+      #   Value: K28
     Geometry: P11019
 
 
@@ -212,7 +237,6 @@ Features:
         Value: 30
     Geometry: S1302
 
-##
 
   - Name: Obstruction
     Foid: 1810:3891941075:506
@@ -233,6 +257,7 @@ Features:
     Prim: Surface
     Geometry: S1303
 
+# 255 = 2
   - Name: SiloTank
     Foid: 1810:2471087191:214
     Prim: Surface
