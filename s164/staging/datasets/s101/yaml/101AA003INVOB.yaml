@@ -35,7 +35,7 @@ InformationTypes:
         id: 1
       - Name: text
         parent: 1
-        Value: Chart note
+        Value: Jussland fishing act
       - Name: language
         parent: 1
         Value: eng
@@ -149,6 +149,7 @@ Features:
         Value: 90000
     Geometry: S1301
 
+# 255 = 2,6
   - Name: BuoyCardinal
     Foid: 1810:967402877:211
     Prim: Point
@@ -160,13 +161,97 @@ Features:
       - Name: colourPattern
         Value: 1
       - Name: colour
-        Value: 
-    Geometry: P11020
+        Value: Black
+      - Name: UnknownAtt2
+        Value: 2
+      - Name: UnknownAtt2
+        Value: 6        
+      - Name: topmark
+        id: 4
+      - Name: topmarkDaymarkShape
+        parent: 4
+        Value: 14
+      - Name: colour
+        Value: Black
 
+    Geometry: P11020
+    # Association:
+    # - To: 150/1
+    #   Name: AdditionalInformation
+    #   Role: providesInformation
+
+## 255 = 1
   - Name: CableSubmarine
     Foid: 1810:1823161373:213
     Prim: Curve
+    Attributes:
+      - Name: UnknownAtt1
+        Value: 1
     Geometry: C12010
+
+##
+## these are the unknown features which don't exist in the feature catalogue.
+## comments have the attribute values in them ready to go. Viewer currently 
+## doesn't like features with unknown attributes tho.
+##
+
+    # Unknown Object - Point...
+    # $SCALE = 1.5
+    # ORIENT = 45
+    # INFORM = Wreck
+    # $SCODE = K28
+  - Name: Unknown
+    Foid: 1810:3684982651:590
+    Prim: Point
+    # Attributes:
+    #   - Name: Scale
+    #     Value: 1.5
+    #   - Name: Scode
+    #     Value: K28
+
+      # - Name: featureName   ## this should be inform / information?
+      #   id: 1
+      # - Name: name
+      #   parent: 1
+      #   Value: Wreck
+      # - Name: displayName
+      #   parent: 1
+      #   Value: 1
+      # - Name: language
+      #   parent: 1
+      #   Value: eng
+      # - Name: orientation
+      #   id: 2
+      # - Name: orientationValue
+      #   parent: 2
+      #   Value: 45
+
+    Geometry: P11019
+
+
+
+  # Unknown Object - Curve...
+  #     $SCODE = K1
+  # INFORM = danger line
+  
+  - Name: Unknown
+    Foid: 1810:3684982651:510
+    Prim: Curve
+    Geometry: C1207
+
+
+  # $SCODE = N45
+  # INFORM = See regulation "Jussland fishing act" paragraph 42
+  # Unknown Object - Surface.    
+  - Name: Unknown
+    Foid: 1810:3684982651:520
+    Prim: Surface
+    Geometry: S1304
+    # association ...
+    # Association:
+    # - To: 150/3
+    #   Name: AdditionalInformation
+    #   Role: providesInformation
 
   - Name: DepthArea
     Foid: 1810:3684982651:500
@@ -177,6 +262,7 @@ Features:
       - Name: depthRangeMaximumValue
         Value: 30
     Geometry: S1302
+
 
   - Name: Obstruction
     Foid: 1810:3891941075:506
@@ -197,15 +283,18 @@ Features:
     Prim: Surface
     Geometry: S1303
 
+# 255 = 2
   - Name: SiloTank
     Foid: 1810:2471087191:214
     Prim: Surface
     Attributes:
       - Name: inTheWater
         Value: 1
+      - Name: UnknownAtt2
+        Value: 2
     Geometry: S1305
 
-  - Name: LandArea # Was NEWOBJ
+  - Name: LandArea # Waypoint marker.
     Foid: 1810:834475393:501
     Prim: Point
     Attributes:
@@ -267,11 +356,7 @@ Features:
         parent: 1
         Value: eng
     Geometry: P11016
-# association ...
-    # Association:
-    # - To: 150/3
-    #   Name: AdditionalInformation
-    #   Role: providesInformation
+
 
   - Name: SeaAreaNamedWaterArea # Was NEWOBJ
     Foid: 1810:4050254983:504
@@ -289,11 +374,7 @@ Features:
         parent: 1
         Value: eng
     Geometry: P11017
-# association ...
-    # Association:
-    # - To: 150/3
-    #   Name: AdditionalInformation
-    #   Role: providesInformation
+
 
   - Name: Wreck
     Foid: 1810:423106769:505
