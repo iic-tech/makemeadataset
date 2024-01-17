@@ -35,7 +35,7 @@ InformationTypes:
         id: 1
       - Name: text
         parent: 1
-        Value: Chart note
+        Value: Jussland fishing act
       - Name: language
         parent: 1
         Value: eng
@@ -161,17 +161,38 @@ Features:
       - Name: colourPattern
         Value: 1
       - Name: colour
-        Value: 
+        Value: Black
+      - Name: UnknownAtt2
+        Value: 2
+      - Name: UnknownAtt2
+        Value: 6        
+      - Name: topmark
+        id: 4
+      - Name: topmarkDaymarkShape
+        parent: 4
+        Value: 14
+      - Name: colour
+        Value: Black
+
     Geometry: P11020
+    # Association:
+    # - To: 150/1
+    #   Name: AdditionalInformation
+    #   Role: providesInformation
 
 ## 255 = 1
   - Name: CableSubmarine
     Foid: 1810:1823161373:213
     Prim: Curve
+    Attributes:
+      - Name: UnknownAtt1
+        Value: 1
     Geometry: C12010
 
 ##
 ## these are the unknown features which don't exist in the feature catalogue.
+## comments have the attribute values in them ready to go. Viewer currently 
+## doesn't like features with unknown attributes tho.
 ##
 
     # Unknown Object - Point...
@@ -182,9 +203,12 @@ Features:
   - Name: Unknown
     Foid: 1810:3684982651:590
     Prim: Point
-    Attributes:
-      - Name: depthRangeMinimumValue
-        Value: 0
+    # Attributes:
+    #   - Name: Scale
+    #     Value: 1.5
+    #   - Name: Scode
+    #     Value: K28
+
       # - Name: featureName   ## this should be inform / information?
       #   id: 1
       # - Name: name
@@ -201,10 +225,7 @@ Features:
       # - Name: orientationValue
       #   parent: 2
       #   Value: 45
-      # - Name: Scale
-      #   Value: 1.5
-      # - Name: Scode
-      #   Value: K28
+
     Geometry: P11019
 
 
@@ -221,11 +242,16 @@ Features:
 
   # $SCODE = N45
   # INFORM = See regulation "Jussland fishing act" paragraph 42
-  # Unknown Object - Area.    
+  # Unknown Object - Surface.    
   - Name: Unknown
     Foid: 1810:3684982651:520
     Prim: Surface
     Geometry: S1304
+    # association ...
+    # Association:
+    # - To: 150/3
+    #   Name: AdditionalInformation
+    #   Role: providesInformation
 
   - Name: DepthArea
     Foid: 1810:3684982651:500
@@ -264,6 +290,8 @@ Features:
     Attributes:
       - Name: inTheWater
         Value: 1
+      - Name: UnknownAtt2
+        Value: 2
     Geometry: S1305
 
   - Name: LandArea # Waypoint marker.
@@ -328,11 +356,7 @@ Features:
         parent: 1
         Value: eng
     Geometry: P11016
-# association ...
-    # Association:
-    # - To: 150/3
-    #   Name: AdditionalInformation
-    #   Role: providesInformation
+
 
   - Name: SeaAreaNamedWaterArea # Was NEWOBJ
     Foid: 1810:4050254983:504
@@ -350,11 +374,7 @@ Features:
         parent: 1
         Value: eng
     Geometry: P11017
-# association ...
-    # Association:
-    # - To: 150/3
-    #   Name: AdditionalInformation
-    #   Role: providesInformation
+
 
   - Name: Wreck
     Foid: 1810:423106769:505
