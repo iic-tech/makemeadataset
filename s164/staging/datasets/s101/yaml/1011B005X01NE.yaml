@@ -4712,6 +4712,7 @@ Features:
   #   Foid: 540:2135135548:687
   #   Prim: Point
   #   Geometry: P110318
+  # think this was made by the converter from the unknown object...
 
   - Name: Coastline
     Foid: 540:2135135582:687
